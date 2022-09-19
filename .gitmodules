@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "gsubfn"]
-	path = gsubfn
-	url = https://github.com/ggrothendieck/gsubfn
-	shallow = true
-	registered = true
 [submodule "nls2"]
 	path = nls2
 	url = https://github.com/ggrothendieck/nls2
