@@ -1,5 +1,9 @@
 [
   {
+    "package": "gsubfn",
+    "oncran": true
+  },
+  {
     "package": "nls2",
     "oncran": true
   },
