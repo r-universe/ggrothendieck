@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sqldf"]
-	path = sqldf
-	url = https://github.com/ggrothendieck/sqldf
+[submodule "gsubfn"]
+	path = gsubfn
+	url = https://github.com/ggrothendieck/gsubfn
 	shallow = true
 	registered = true
 [submodule "nls2"]
@@ -13,8 +13,8 @@
 	url = https://github.com/ggrothendieck/nls2
 	shallow = true
 	registered = true
-[submodule "gsubfn"]
-	path = gsubfn
-	url = https://github.com/ggrothendieck/gsubfn
+[submodule "sqldf"]
+	path = sqldf
+	url = https://github.com/ggrothendieck/sqldf
 	shallow = true
 	registered = true
