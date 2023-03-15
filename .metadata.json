@@ -1,6 +1,6 @@
 [
   {
-    "package": "gsubfn",
+    "package": "sqldf",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "sqldf",
+    "package": "gsubfn",
     "oncran": true
   }
 ]
